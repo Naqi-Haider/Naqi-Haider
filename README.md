@@ -73,20 +73,18 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+  <h3>📊 My Stats </h3>
+  
+  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
 
-  <br/><br/>
+  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
 
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=NaqiHaider&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-
+  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/3-productive-time.svg" alt="Productive Time" />
 </div>
 ---
 
@@ -113,6 +111,7 @@ If you like my work:
 - 🤝 Follow me on GitHub  
 - 💬 Reach out for collaboration or freelance work  
 
-> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying.” -Kimberly Brehm_
+> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying.” 
+    -Kimberly Brehm_
 
 ---
