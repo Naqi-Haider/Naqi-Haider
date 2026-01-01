@@ -1,10 +1,5 @@
 <div align="center"> 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybG80Z2U1ZWhrNDB2ZmlwcGFsN28zcHVvZ2hiNjhjdWczejgxb2k1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/source.gif" height="160" width="auto" />
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Shopify+Theme+Expert;One+Piece+Fan" alt="Typing SVG" />
-    </a>
-  </h3>
   
 # 👋 Hi, I'm Naqi Haider  
 ### Full-Stack Developer (MERN) | Shopify Theme Developer  
