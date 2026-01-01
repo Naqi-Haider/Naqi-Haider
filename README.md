@@ -29,75 +29,14 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ---
 
-### 🛠️ Skill Proficiency
+### ⚡ Tech Stack Proficiency
 
-### 🚀 Core MERN Stack
-<p>
-<img src="https://img.shields.io/badge/JavaScript-90%25-brightgreen?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-80%25-success?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-80%25-black?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-75%25-darkgreen?style=for-the-badge&logo=mongodb"/>
-</p>
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#00ff99', 'pie2': '#202020', 'pieTitleTextSize': '20px', 'pieTitleTextColor': '#fff' }}}%%
+pie title React
+    "Competent" : 85
+    "Learning" : 15
 
----
-
-### 🛒 Shopify Development
-<p>
-<img src="https://img.shields.io/badge/Liquid-80%25-informational?style=for-the-badge&logo=shopify"/>
-<img src="https://img.shields.io/badge/Theme_Customization-85%25-brightgreen?style=for-the-badge&logo=shopify"/>
-<img src="https://img.shields.io/badge/Custom_Sections-80%25-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance_Optimization-75%25-yellow?style=for-the-badge"/>
-</p>
-
----
-
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Tailwind-75%25-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Responsive_Design-85%25-brightgreen?style=for-the-badge"/>
-</p>
-
----
-
-
-### 🧰 Tools
-<p>
-<img src="https://img.shields.io/badge/Git_&_GitHub-85%25-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Linux-75%25-yellow?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Postman_APIs-85%25-orange?style=for-the-badge&logo=postman"/>
-</p>
-
----
-
-<div align="center">
-  <h3>Connect with Me</h3>
-  <p>
-    <a href="https://github.com/NaqiHaider">
-      <img src="https://img.shields.io/github/followers/NaqiHaider?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-    </a>
-    <a href="https://github.com/NaqiHaider">
-      <img src="https://img.shields.io/github/stars/NaqiHaider?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-    </a>
-  </p>
-</div>
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/NaqiHaider">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/m-naqi-haider-8b6772322">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:naqi073@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
 ---
 
