@@ -1,5 +1,16 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybG80Z2U1ZWhrNDB2ZmlwcGFsN28zcHVvZ2hiNjhjdWczejgxb2k1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/source.gif" width="500"/>
+  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Shopify+Theme+Expert;One+Piece+Fan;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="600" style="border-radius: 15px; border: 2px solid #F7DF1E;" />
+  
+  <br/><br/>
+  
+  <p><i>"I'm going to be the King of the Pirates!" ...or at least the King of Clean Code.</i> 🏴‍☠️</p>
+</div>
 
 # 👋 Hi, I'm Naqi Haider  
 ### Full-Stack Developer (MERN) | Shopify Theme Developer  
