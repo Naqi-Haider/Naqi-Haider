@@ -74,19 +74,16 @@ I love building complex and innovative Web applications. I am still a beginner a
 ---
 
 <div align="center">
-  <h3>📊 My Stats </h3>
-  
-  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Profile Details" />
-
-  <br/>
-
-  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github.com/NaqiHaider/NaqiHaider/blob/master/profile-summary-card-output/solarized_dark/3-productive-time.svg" alt="Productive Time" />
+  <h3>Connect with Me</h3>
+  <p>
+    <a href="https://github.com/NaqiHaider">
+      <img src="https://img.shields.io/github/followers/NaqiHaider?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+    </a>
+    <a href="https://github.com/NaqiHaider">
+      <img src="https://img.shields.io/github/stars/NaqiHaider?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+    </a>
+  </p>
 </div>
----
 
 ## 📫 Connect With Me
 
