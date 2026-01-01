@@ -5,7 +5,7 @@
 ### Full-Stack Developer (MERN) | Shopify Theme Developer  
 
 💻 Building scalable web apps & high-performance eCommerce experiences  
-🛒 Interested in MERN Stack & Shopify theme customization  
+💧 Interested in MERN Stack & Shopify theme customization  
 
 ---
 
