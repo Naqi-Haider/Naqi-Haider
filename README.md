@@ -29,38 +29,10 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ---
 
-<h3>🚀 Core MERN Stack</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img width="120" src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[90,10],backgroundColor:['%23F7DF1E','%23333'],borderWidth:0}]},options:{cutoutPercentage:70,rotation:-3.14159,circumference:6.28,legend:{display:false},title:{display:true,text:'JS',fontColor:'white',fontSize:20}}}" />
-      <br/><b>JavaScript</b>
-    </td>
-    <td align="center">
-      <img width="120" src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[85,15],backgroundColor:['%2361DAFB','%23333'],borderWidth:0}]},options:{cutoutPercentage:70,rotation:-3.14159,circumference:6.28,legend:{display:false},title:{display:true,text:'85%',fontColor:'white',fontSize:20}}}" />
-      <br/><b>React</b>
-    </td>
-    <td align="center">
-      <img width="120" src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[80,20],backgroundColor:['%2368A063','%23333'],borderWidth:0}]},options:{cutoutPercentage:70,rotation:-3.14159,circumference:6.28,legend:{display:false},title:{display:true,text:'80%',fontColor:'white',fontSize:20}}}" />
-      <br/><b>Node.js</b>
-    </td>
-  </tr>
-</table>
-
-<h3>🛒 Shopify Development</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img width="120" src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[80,20],backgroundColor:['%2395BF47','%23333'],borderWidth:0}]},options:{cutoutPercentage:70,rotation:-3.14159,circumference:6.28,legend:{display:false},title:{display:true,text:'80%',fontColor:'white',fontSize:20}}}" />
-      <br/><b>Liquid</b>
-    </td>
-    <td align="center">
-      <img width="120" src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[85,15],backgroundColor:['%23FF5722','%23333'],borderWidth:0}]},options:{cutoutPercentage:70,rotation:-3.14159,circumference:6.28,legend:{display:false},title:{display:true,text:'85%',fontColor:'white',fontSize:20}}}" />
-      <br/><b>Custom Themes</b>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <h3>My Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,shopify,git,linux,docker,postman" />
+</div>
 
 ---
 
