@@ -72,15 +72,21 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ---
 
-## 📊 GitHub Stats (FIXED)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true" 
+  alt="GitHub Stats"
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages"
+/>
 
 </div>
 
