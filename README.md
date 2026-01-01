@@ -31,21 +31,36 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ### 🛠️ Skill Proficiency
 
-### 🚀 MERN Stack
-- JavaScript   ◉◉◉◉◉◉◉◉◉○ 90%
-- React.js     ◉◉◉◉◉◉◉◉○○ 85%
-- Node.js      ◉◉◉◉◉◉◉○○○ 80%
-- Express.js   ◉◉◉◉◉◉◉○○○ 80%
-- MongoDB      ◉◉◉◉◉◉○○○○ 75%
+### 🚀 Core MERN Stack
+<p>
+<img src="https://img.shields.io/badge/JavaScript-90%25-brightgreen?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-80%25-success?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-80%25-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-75%25-darkgreen?style=for-the-badge&logo=mongodb"/>
+</p>
 
-### 🛒 Shopify
-- Liquid       ◉◉◉◉◉◉◉○○○ 80%
-- Theme Dev    ◉◉◉◉◉◉◉◉○○ 85%
+---
+
+### 🛒 Shopify Development
+<p>
+<img src="https://img.shields.io/badge/Liquid-80%25-informational?style=for-the-badge&logo=shopify"/>
+<img src="https://img.shields.io/badge/Theme_Customization-85%25-brightgreen?style=for-the-badge&logo=shopify"/>
+<img src="https://img.shields.io/badge/Custom_Sections-80%25-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-75%25-yellow?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🌐 Frontend
-- HTML5        ◉◉◉◉◉◉◉◉◉○ 90%
-- CSS3         ◉◉◉◉◉◉◉◉○○ 85%
-- Tailwind     ◉◉◉◉◉◉○○○○ 75%
+<p>
+<img src="https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Tailwind-75%25-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Responsive_Design-85%25-brightgreen?style=for-the-badge"/>
+</p>
+
+---
 
 
 ### 🧰 Tools
@@ -61,17 +76,17 @@ I love building complex and innovative Web applications. I am still a beginner a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true" alt="NaqiHaider's GitHub Stats" />
+  <a href="https://github.com/NaqiHaider">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Stats" />
+  </a>
+  <a href="https://github.com/NaqiHaider">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
+  </a>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/>
+  <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=NaqiHaider&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
-
 ---
 
 ## 📫 Connect With Me
@@ -97,7 +112,6 @@ If you like my work:
 - 🤝 Follow me on GitHub  
 - 💬 Reach out for collaboration or freelance work  
 
-> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying. 
--Kimberly Brehm”_
+> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying.” -Kimberly Brehm_
 
 ---
