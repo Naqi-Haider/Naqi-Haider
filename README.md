@@ -41,9 +41,8 @@ I love building complex and innovative Web applications. I am still a beginner a
 If you like my work:
 - ⭐ Star repositories  
 - 🤝 Follow me on GitHub  
-- 💬 Reach out for collaboration or freelance work  
+- 💬 Reach out for collaboration or freelance work
 
-> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying.” 
-    -Kimberly Brehm_
+> _“Don’t give up!  Anything worth doing is going to be a struggle at some point, but you can succeed if you just keep trying.” <br>-Kimberly Brehm_
 
 ---
