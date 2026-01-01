@@ -29,64 +29,59 @@ I love building complex and innovative Web applications. I am still a beginner a
 
 ---
 
-## 🛠️ Skills & Proficiency
+## 🛠️ Skills (Radial + Percentile)
 
-### 🚀 Core Stack
-| Skill | Level |
-|------|------|
-| **JavaScript (ES6+)** | ██████████ 90% (Advanced) |
-| **React.js** | █████████▉ 50% (Intermediate) |
-| **Node.js** | █████████▌ 80% (Advanced) |
-| **Express.js** | █████████▌ 80% (Advanced) |
-| **MongoDB** | ████████▌ 75% (Intermediate–Advanced) |
+### 🚀 Core MERN Stack
+<p>
+<img src="https://img.shields.io/badge/JavaScript-90%25-brightgreen?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-85%25-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-80%25-success?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-80%25-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-75%25-darkgreen?style=for-the-badge&logo=mongodb"/>
+</p>
 
 ---
 
 ### 🛒 Shopify Development
-| Skill | Level |
-|------|------|
-| **Shopify Liquid** | █████████▌ 80% |
-| **Theme Customization** | █████████▉ 85% |
-| **Custom Sections / Blocks** | █████████▌ 80% |
-| **Performance Optimization** | ████████▌ 75% |
+<p>
+<img src="https://img.shields.io/badge/Liquid-80%25-informational?style=for-the-badge&logo=shopify"/>
+<img src="https://img.shields.io/badge/Theme_Customization-85%25-brightgreen?style=for-the-badge&logo=shopify"/>
+<img src="https://img.shields.io/badge/Custom_Sections-80%25-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-75%25-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🌐 Frontend
-| Skill | Level |
-|------|------|
-| **HTML5** | ██████████ 90% |
-| **CSS3 / Flexbox / Grid** | █████████▉ 85% |
-| **Tailwind CSS** | ████████▌ 75% |
-| **Responsive Design** | █████████▉ 85% |
+<p>
+<img src="https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Tailwind-75%25-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Responsive_Design-85%25-brightgreen?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🧰 Tools & Platforms
-| Tool | Level |
-|-----|------|
-| **Git & GitHub** | █████████▉ 85% |
-| **Linux** | ████████▌ 75% |
-| **Docker (Basics)** | ██████▌ 60% |
-| **Postman / APIs** | █████████▉ 85% |
+### 🧰 Tools
+<p>
+<img src="https://img.shields.io/badge/Git_&_GitHub-85%25-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Linux-75%25-yellow?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-60%25-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Postman_APIs-85%25-orange?style=for-the-badge&logo=postman"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NaqiHaider&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=NaqiHaider&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-## 🧠 Most Used Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaqiHaider&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
