@@ -10,8 +10,6 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaqiHaider&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/NaqiHaider?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/NaqiHaider?style=flat-square)
 
 </div>
 
