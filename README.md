@@ -1,11 +1,11 @@
 <div align="center"> 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybG80Z2U1ZWhrNDB2ZmlwcGFsN28zcHVvZ2hiNjhjdWczejgxb2k1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/source.gif" height="160" width="auto" />
   
-# 👋 Hi, I'm Naqi Haider  
+# Hi, I'm Naqi Haider  
 ### Full-Stack Developer (MERN) | Shopify Theme Developer  
 
-💻 Building scalable web apps & high-performance eCommerce experiences  
-💧 Interested in MERN Stack & Shopify theme customization  
+ Building scalable web apps & high-performance eCommerce experiences  
+ Interested in MERN Stack & Shopify theme customization  
 
 ---
 
@@ -15,15 +15,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I’m a **Full-Stack Developer** mainly working with the **MERN stack** and **Shopify theme development**.  
 I love building complex and innovative Web applications. I am still a beginner at this phase but someday my GitHub will be filled with exciting projects :)
 
-- ⚡ MERN Stack (MongoDB, Express, React, Node.js)
-- 🛍️ Shopify Theme Development (Liquid, Custom Sections)
-- 🎯 Focused on performance, UX & maintainable code
-- 🌱 Always learning and improving
+-  MERN Stack (MongoDB, Express, React, Node.js)
+-  Shopify Theme Development (Liquid, Custom Sections)
+-  Focused on performance, UX & maintainable code
+-  Always learning and improving
 
 ---
 
