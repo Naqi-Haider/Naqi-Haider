@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://profile-counter.naqi-haider.workers.dev" alt="Profile Views" />
+<img src="https://profile-counter.naqi-haider.workers.dev/?v=3" alt="Profile Views" />
 
 </div>
 
