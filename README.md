@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=NaqiHaider&style=flat-square&color=007ec6" alt="Profile Views" />
+![Profile Views](https://api.visitorbadge.io/api/visitors?page_id=NaqiHaider&style=flat-square)
 
 </div>
 
