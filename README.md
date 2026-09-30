@@ -9,7 +9,7 @@
 
 ---
 
-![Profile Views](https://api.visitorbadge.io/api/visitors?page_id=NaqiHaider&style=flat-square)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaqiHaider&count_bg=%23007ec6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 </div>
 
