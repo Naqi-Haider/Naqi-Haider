@@ -9,7 +9,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=NaqiHaider&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=NaqiHaider&style=flat-square&color=007ec6" alt="Profile Views" />
 
 </div>
 
