@@ -9,19 +9,7 @@
 
 ---
 
-export default {
- async fetch(req, env) {
-   const n = parseInt((await env.COUNTER.get("views")) || "0") + 1;
-   await env.COUNTER.put("views", String(n));
-   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="130" height="20">
-     <rect width="80" height="20" fill="#555"/><rect x="80" width="50" height="20" fill="#007ec6"/>
-     <g fill="#fff" font-family="Verdana" font-size="11">
-       <text x="6" y="14">Profile Views</text><text x="86" y="14">${n}</text></g></svg>`;
-   return new Response(svg, { headers: {
-     "Content-Type": "image/svg+xml",
-     "Cache-Control": "no-cache, no-store" } });
- }
-};
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNaqiHaider&count_bg=%23007ec6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 </div>
 
